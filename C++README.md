@@ -1,6 +1,9 @@
 # CMSC313-HW8-CVCPP
+This README file is for the matrixSimpleLib.C file.
 
 Author: Max Monson   UMBC CMSC313 M/W 10 - 11:15
+
+Purpose:
 The purpose of this C++ program is to operate and modify matrices.
 This program can be easily applied to many different types of applications.
 
